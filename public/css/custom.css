@@ -1,0 +1,7 @@
+table.task-table th, table.task-table td.description {
+	column-span: 3;
+}
+
+div.task-card {
+	margin: 10px 0;
+}
